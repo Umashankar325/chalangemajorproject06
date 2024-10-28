@@ -102,6 +102,12 @@ nav button,.pag2 .container .left button {
   font-size: 17px;
   margin: 30px 10px;
 }
+.fa-bars{
+  margin-right: 30px;
+  font-size: 25px;
+  display: none;
+  color: greenyellow;
+}
 .pag1 .container .left .bottom {
   padding-top: 30px;
   display: flex;
